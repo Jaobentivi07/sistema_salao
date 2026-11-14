@@ -44,7 +44,7 @@ h2 { /* Título h2 */
     background: #212121; /* Fundo */
     padding: 15px; /* Espaçamento */
     list-style: none; /* Remove marcadores */
-    text-align: left; /* Alinha à esquerda */
+    text-align: center; /* Alinha à esquerda */
     border-radius: 5px; /* Bordas arredondadas */
 }
 
