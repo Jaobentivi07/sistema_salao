@@ -29,9 +29,11 @@ h2 { /* Título h2 */
 
 #banner { /* Imagem do banner */
     width: 100%; /* Largura total */
-    height: auto; /* Altura automática */
-    border-radius: 15px; /* Bordas arredondadas */
-    margin-bottom: 20px; /* Espaço inferior */
+   max-width: 1100px;
+   height: auto;
+   display: block;
+   margin: 20px auto;
+   border-raudius: 12px;
 }
 
 /* ================================
